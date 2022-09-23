@@ -9,7 +9,7 @@ Some of the Screenshots are :
 ![image](https://user-images.githubusercontent.com/99995323/191899599-adc2bf6f-22b0-4510-b5b1-b56198150dc2.png)
 ![image](https://user-images.githubusercontent.com/99995323/191899696-2f83530a-5dd2-4854-870c-118867a86dab.png)
 
-Authentication and Register Projects, Users , Tasks:
+Authentication and Forms to Register Projects, Users , Tasks:
 ![image](https://user-images.githubusercontent.com/99995323/191899976-126ef4bd-ebed-44eb-8678-bebaeff122f7.png)
 ![image](https://user-images.githubusercontent.com/99995323/191900079-0b1bf857-ad2a-480a-a68b-1649c415c729.png)![image](https://user-images.githubusercontent.com/99995323/191899888-54d5fb2b-1700-4d50-b42b-56e8a919bd59.png)
 ![image](https://user-images.githubusercontent.com/99995323/191899910-7a47aff7-43b1-4d62-9a2c-dd3e18adfaef.png)

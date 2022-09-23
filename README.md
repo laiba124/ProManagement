@@ -1,4 +1,16 @@
-##hey
+This app is a project management app with multiple roles admin,developer,customer,manager.This app allows you to manage your projects, assign tasks or projects to users, developers, managers.
+Some of the Screenshots are :
+
+![image](https://user-images.githubusercontent.com/99995323/191899168-aa5333e8-566f-4046-a277-fd379e95dbe0.png)
+![image](https://user-images.githubusercontent.com/99995323/191899352-6cb6f095-bc4d-45a2-93ba-3bf607a69ab2.png)
+![image](https://user-images.githubusercontent.com/99995323/191899380-987e563c-9d83-48b1-a42c-c77b6b7b0bac.png)
+![image](https://user-images.githubusercontent.com/99995323/191899448-49fe7ce9-e81e-4a61-8528-df4010bd03f3.png)
+![image](https://user-images.githubusercontent.com/99995323/191899484-b0a6f075-826b-4912-8337-0831dc9ca4ec.png)
+![image](https://user-images.githubusercontent.com/99995323/191899510-06e4231c-e1c7-4608-9511-b058ab3ed735.png)
+![image](https://user-images.githubusercontent.com/99995323/191899599-adc2bf6f-22b0-4510-b5b1-b56198150dc2.png)
+![image](https://user-images.githubusercontent.com/99995323/191899696-2f83530a-5dd2-4854-870c-118867a86dab.png)
+
+
 
 
 
